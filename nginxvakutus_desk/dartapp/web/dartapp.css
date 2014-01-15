@@ -36,9 +36,9 @@ body {
 }
 
 .rightbox {
-   display: block;
+  display: block;
   position: fixed;
   top: 20px;
-  
+  float: right; 
   }
 
