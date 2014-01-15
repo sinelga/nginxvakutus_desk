@@ -24,7 +24,7 @@ body {
   
 }
 
-.rightbox {
+.rightboxold {
   
   position: fixed;
   width: 150px;
@@ -35,11 +35,11 @@ body {
    
 }
 
-.rightboxold {
+.rightbox {
    display: block;
   position: fixed;
   top: 20px;
-   right: 20px;
+   margin-left: 20px;
    float:right;
   
   }
