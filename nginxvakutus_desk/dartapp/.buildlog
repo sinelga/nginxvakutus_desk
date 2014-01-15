@@ -1934,3 +1934,175 @@ build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --
 
 build.dart finished [1649 ms]
 
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1748 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1576 ms]
+
+---
+build.dart --machine --changed=web/righbox.dart
+
+build.dart finished [1646 ms]
+
+---
+build.dart --machine --changed=web/righbox.dart
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/righbox.dart
+
+build.dart finished [1542 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1584 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/dartapp.html","message":"Unexpected end tag (riht-box). Ignored.","line":36,"charStart":1128,"charEnd":1139}}]
+[{"method":"warning","params":{"file":"web/dartapp.html","message":"End tag (div) seen too early. Expected other end tag.","line":38,"charStart":1146,"charEnd":1152}}]
+build.dart finished [1552 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1579 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart --removed=web/righbox.dart
+
+build.dart finished [1603 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1643 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1563 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1580 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1552 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1575 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1570 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1562 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1594 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css --changed=web/dartapp.html
+
+build.dart finished [1623 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1657 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1585 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1616 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1535 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1615 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":348,"charEnd":356}}]
+build.dart finished [1594 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+[{"method":"warning","params":{"file":"web/dartapp.html","message":"custom element \"right-box\" extends from \"div\", but this tag will not include the default properties of \"div\". To fix this, either write this tag as <div is=\"right-box\"> or remove the \"extends\" attribute from the custom element declaration.","line":37,"charStart":1076,"charEnd":1151}}]
+build.dart finished [1578 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1587 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1580 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1575 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1776 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1883 ms]
+
