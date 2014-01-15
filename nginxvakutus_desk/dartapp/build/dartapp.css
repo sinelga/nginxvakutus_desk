@@ -27,10 +27,12 @@ body {
 .rightbox {
   
   display: block;
-   position: fixed;
-   top: 20px;
+  position: fixed;
+  top: 20px;
+   
  
    right: 20px;
+   float:right;
   /*width: 200px; */
   
 }
