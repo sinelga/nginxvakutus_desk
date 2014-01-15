@@ -1,0 +1,100 @@
+<!DOCTYPE html><html><head><script src="packages/shadow_dom/shadow_dom.debug.js"></script>
+<script src="packages/custom_element/custom-elements.debug.js"></script>
+<script src="packages/browser/interop.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <title>Finance</title>
+    <link rel="stylesheet" href="dartapp.css">
+
+    
+    
+    
+    <script src="dartapp.html_bootstrap.dart.js"></script>
+    
+  </head>
+  <body><polymer-element name="left-box">
+  <template>
+ 
+ 
+   <ul class="nav nav-pills nav-stacked"> 
+    <template repeat="{{navigation in navigationList}}">
+      
+      <li><a on-click="{{selectNavigation}}" id="{{navigation.id}}">{{navigation.SubThemes}}</a></li> 
+    
+              
+    </template>
+    </ul>  
+    
+   
+  </template>
+  
+</polymer-element>
+<polymer-element name="central-box"> <template>
+<style>
+.title {
+  display: block;
+  width: 120px;
+}
+</style>
+
+<div id="bigspinner" class="bigspinner">
+  <i class="fa fa-spinner fa-spin fa-5x"></i>Odotta...
+</div>
+
+<div id="articles">
+<template repeat="{{forMark in forMarkList}}">
+
+<div class="media" on-click="{{selectArticle}}" id="{{forMark.id}}">
+  <a class="pull-left" href="#"> <img class="media-object" src="{{forMark.ImageLink}}" alt="">
+  </a>
+  <div class="media-body">
+    <p class="media-heading">{{forMark.PubDate}}</p>
+    <div class="title">
+      {{forMark.Title}}. <i class="fa fa-arrow-circle-o-right"></i>
+    </div>
+  </div>
+</div>
+</template> 
+</div>
+</template>  </polymer-element>
+<polymer-element name="article-box">
+  <template>
+    <style>
+ 
+    </style> 
+      <button type="button" on-click="{{closeArticle}}" class="close pull-right" aria-hidden="true"><i class="fa fa-times-circle-o fa-lg"></i></button>
+      <div class="page-header text-center">{{title}}</div>
+      <img src="{{imglink }}" alt="" class="img-rounded center-block">
+      <div class="well">{{cont}}</div>
+      
+    
+  </template>
+  
+</polymer-element>
+
+    
+  <div class="row">
+  <div class="col-md-4">
+
+        <left-box class="leftbox navbar navbar-fixed-top"></left-box>  
+  
+  </div>
+  <div class="col-md-4">
+  
+    <article-box id="article-box"></article-box>
+    <central-box id="central-box"></central-box>
+    
+  
+  </div>
+  <div class="col-md-4"></div>
+  
+  </div>
+
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  
+
+</body></html>

@@ -1,0 +1,29 @@
+<polymer-element name="central-box"> <template>
+<style>
+.title {
+  display: block;
+  width: 120px;
+}
+</style>
+
+<div id='bigspinner' class='bigspinner'>
+  <i class="fa fa-spinner fa-spin fa-5x"></i>Odotta...
+</div>
+
+<div id='articles'>
+<template repeat="{{forMark in forMarkList}}">
+
+<div class="media" on-click="{{selectArticle}}" id='{{forMark.id}}'>
+  <a class="pull-left" href="#"> <img class="media-object"
+    src="{{forMark.ImageLink}}" alt="">
+  </a>
+  <div class="media-body">
+    <p class="media-heading">{{forMark.PubDate}}</p>
+    <div class='title'>
+      {{forMark.Title}}. <i class="fa fa-arrow-circle-o-right"></i>
+    </div>
+  </div>
+</div>
+</template> 
+</div>
+</template> <script type="application/dart" src="centralbox.dart"></script> </polymer-element>
