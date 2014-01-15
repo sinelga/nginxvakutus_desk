@@ -26,16 +26,21 @@ body {
 
 .rightbox {
   
-  display: block;
   position: fixed;
-  top: 20px;
+  width: 150px;
+  height: 610px;
+  left: 50%;
+  top: 0%;
+  margin-left: -75px; /*half the width*/
    
- 
-   right: 20px;
-   float:right;
-  /*width: 200px; */
-  
 }
 
-
+.rightboxold {
+   display: block;
+  position: fixed;
+  top: 20px;
+   right: 20px;
+   float:right;
+  
+  }
 
