@@ -2,6 +2,9 @@ name: dartapp
 description: A sample Polymer application
 dependencies:
     polymer: any
+    jsonp: any
+    js: any
+    intl: any
 transformers:
 - polymer:
     entry_points: web/dartapp.html

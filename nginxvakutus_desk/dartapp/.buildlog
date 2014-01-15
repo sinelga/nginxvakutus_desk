@@ -3,3 +3,1934 @@ build.dart --machine --changed=pubspec.yaml --changed=web/clickcounter.dart --ch
 
 build.dart finished [1498 ms]
 
+---
+build.dart --machine --full
+
+build.dart finished [1877 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1887 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1711 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1313 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1243 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1221 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1230 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1333 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1273 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1284 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1357 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1254 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1276 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1234 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1248 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1273 ms]
+
+---
+build.dart --machine --changed=web/domains.dart
+
+build.dart finished [1290 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1948 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1227 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1257 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1250 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1304 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml --changed=web/leftbox.dart
+
+build.dart finished [1424 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [1265 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1294 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1255 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1286 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1257 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1293 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml --changed=web/leftbox.dart
+
+build.dart finished [1718 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1534 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1537 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1487 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1515 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1570 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1478 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1492 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1537 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1459 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1620 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1498 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1492 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/dartapp.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":24,"charStart":828,"charEnd":853}}]
+build.dart finished [1500 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1487 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1483 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1654 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1496 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1491 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1489 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1502 ms]
+
+---
+build.dart --machine --changed=web/domains.dart
+
+build.dart finished [1584 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1506 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1495 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1469 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1471 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1504 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1462 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1524 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1518 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1510 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1509 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1522 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1487 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1521 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1507 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1495 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1519 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1579 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1489 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1561 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1662 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1479 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1516 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1467 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1503 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1503 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1484 ms]
+
+---
+build.dart --machine --changed=web/domains.dart
+
+build.dart finished [1493 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1470 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1484 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1518 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1517 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1571 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1501 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1518 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"End tag (div) seen too early. Expected other end tag.","line":10,"charStart":280,"charEnd":286}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"End tag (div) seen too early. Expected other end tag.","line":15,"charStart":324,"charEnd":330}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Unexpected end tag (template). Ignored.","line":16,"charStart":333,"charEnd":344}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"End tag (div) seen too early. Expected other end tag.","line":10,"charStart":280,"charEnd":286}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"End tag (div) seen too early. Expected other end tag.","line":15,"charStart":324,"charEnd":330}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Unexpected end tag (template). Ignored.","line":16,"charStart":333,"charEnd":344}}]
+build.dart finished [1495 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1563 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1529 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1574 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1618 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1593 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1547 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1528 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1488 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1520 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1538 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1507 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1651 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1553 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1531 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1526 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1499 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1574 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1521 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1558 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1601 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1519 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1636 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1506 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1514 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1560 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1513 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1596 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1552 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1626 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1547 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1559 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1522 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1604 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1721 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":187,"charEnd":267}}]
+build.dart finished [1664 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":190,"charEnd":270}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":190,"charEnd":270}}]
+build.dart finished [3396 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":269}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":269}}]
+build.dart finished [1578 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":269}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":269}}]
+build.dart finished [1539 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":280}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":280}}]
+build.dart finished [1598 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":255}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":189,"charEnd":255}}]
+build.dart finished [1560 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":13,"charStart":214,"charEnd":269}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":13,"charStart":214,"charEnd":269}}]
+build.dart finished [1633 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":13,"charStart":233,"charEnd":288}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":13,"charStart":233,"charEnd":288}}]
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1596 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Unexpected end of file in attribute value (').","line":10,"charStart":170,"charEnd":383}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Expected closing tag. Unexpected end of file.","line":6,"charStart":70,"charEnd":116}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Unexpected end of file in attribute value (').","line":10,"charStart":170,"charEnd":383}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Expected closing tag. Unexpected end of file.","line":6,"charStart":70,"charEnd":116}}]
+build.dart finished [1578 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1563 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1554 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1556 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1625 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1610 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1587 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1580 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1672 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+build.dart finished [1677 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":14,"charStart":307,"charEnd":362}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":170,"charEnd":204}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":14,"charStart":307,"charEnd":362}}]
+build.dart finished [1614 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":13,"charStart":228,"charEnd":283}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":13,"charStart":228,"charEnd":283}}]
+build.dart finished [1586 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":11,"charStart":193,"charEnd":248}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":11,"charStart":193,"charEnd":248}}]
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":11,"charStart":193,"charEnd":248}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":11,"charStart":193,"charEnd":248}}]
+build.dart finished [1535 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":191,"charEnd":246}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":191,"charEnd":246}}]
+build.dart finished [1572 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":191,"charEnd":246}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Named entity expected. Got none.","line":10,"charStart":191,"charEnd":246}}]
+build.dart finished [1556 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1560 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1502 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1537 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1584 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css
+
+build.dart finished [1571 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1541 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css
+
+build.dart finished [1539 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1574 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1577 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1529 ms]
+
+---
+build.dart --machine --changed=build/dartapp.html
+
+build.dart finished [1524 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1606 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1636 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1576 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1618 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1512 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1560 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1569 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1597 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1623 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1602 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1585 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1523 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1537 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1517 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1566 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1821 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1525 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1609 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1616 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1550 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1659 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Unexpected end tag (template). Ignored.","line":28,"charStart":693,"charEnd":704}}]
+[{"method":"warning","params":{"file":"web/centralbox.html","message":"Unexpected end tag (template). Ignored.","line":28,"charStart":693,"charEnd":704}}]
+build.dart finished [1605 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1590 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1709 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart --changed=web/leftbox.html
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1589 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1565 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1502 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1543 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1590 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1498 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1534 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1594 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1525 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1652 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1552 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1575 ms]
+
+---
+build.dart --machine --changed=web/leftbox.html
+
+build.dart finished [1554 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1528 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1551 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1583 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1543 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1570 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1556 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1524 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1578 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1542 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1554 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1572 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1556 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1557 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1510 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1555 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1589 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1520 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1569 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1570 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1719 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1624 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1599 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1595 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1533 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1494 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1535 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1515 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1501 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1558 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1561 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1545 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1633 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1537 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1541 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1622 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart --changed=web/articlebox.html
+
+build.dart finished [1557 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1562 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1575 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1539 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1555 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1578 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1501 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1558 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1586 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1502 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart --changed=web/articlebox.html
+
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1508 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1535 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1571 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1576 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1584 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+
+build.dart finished [1559 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1561 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1557 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1566 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1634 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1577 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1541 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1556 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1576 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1557 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1539 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1594 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1502 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1532 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1674 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1595 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1542 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1553 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1566 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart --changed=web/centralbox.dart
+
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1547 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1608 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1574 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1590 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1616 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1607 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1615 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1521 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1570 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1556 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1587 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart --changed=web/centralbox.dart
+
+build.dart finished [1615 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart --changed=web/centralbox.dart
+
+build.dart finished [1534 ms]
+
+---
+build.dart --machine --changed=web/articlebox.dart
+
+build.dart finished [1592 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1646 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1998 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [3858 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1574 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1626 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+
+build.dart finished [1635 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1643 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1650 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1791 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1543 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1562 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1602 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1667 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1534 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1583 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1626 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1562 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1552 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1581 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1618 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1673 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1632 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1563 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1696 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1561 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1608 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1791 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2037 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1544 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1592 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1840 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1649 ms]
+

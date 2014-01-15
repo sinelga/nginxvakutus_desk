@@ -3,22 +3,38 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Sample app</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <title>Finance</title>
     <link rel="stylesheet" href="dartapp.css">
-    
-    <!-- import the click-counter -->
-    <link rel="import" href="clickcounter.html">
+
+    <link rel="import" href="leftbox.html">
+    <link rel="import" href="centralbox.html">
+    <link rel="import" href="articlebox.html">
     <script type="application/dart">export 'package:polymer/init.dart';</script>
     <script src="packages/browser/dart.js"></script>
   </head>
   <body>
-    <h1>Dartapp</h1>
     
-    <p>Hello world from Dart!</p>
-    
-    <div id="sample_container_id">
-      <click-counter count="5"></click-counter>
-    </div>
+  <div class="row">
+  <div class="col-md-4">
 
+        <left-box class='leftbox navbar navbar-fixed-top'></left-box>  
+  
+  </div>
+  <div class="col-md-4">
+  
+    <article-box id='article-box'></article-box>
+    <central-box id='central-box'></central-box>
+    
+  
+  </div>
+  <div class="col-md-4"></div>
+  
+  </div>
+
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
   </body>
 </html>
