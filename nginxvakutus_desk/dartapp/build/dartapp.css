@@ -38,7 +38,7 @@ body {
 .rightbox {
   display: block;
   position: fixed;
-  left: 20px
+  right:0px;  
   top: 20px;
   /*float: right;*/ 
   }
