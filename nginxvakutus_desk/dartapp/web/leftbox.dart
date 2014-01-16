@@ -34,7 +34,6 @@ class LeftBoxElement extends PolymerElement {
 
     this.hidden = false;
     centralBoxElement = querySelector('#central-box');
-//    articleBoxElement = querySelector('#article-box');
     
   });
   }

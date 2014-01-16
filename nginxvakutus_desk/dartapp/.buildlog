@@ -2643,3 +2643,368 @@ build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --
 [{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
 build.dart finished [3786 ms]
 
+---
+build.dart --machine --changed=web/rightbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":356,"charEnd":364}}]
+build.dart finished [1598 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":356,"charEnd":364}}]
+build.dart finished [1584 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":356,"charEnd":364}}]
+build.dart finished [1784 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":356,"charEnd":364}}]
+build.dart finished [1888 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":356,"charEnd":364}}]
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":14,"charStart":434,"charEnd":442}}]
+build.dart finished [1910 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":14,"charStart":434,"charEnd":442}}]
+build.dart finished [1779 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":14,"charStart":434,"charEnd":442}}]
+build.dart finished [1677 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1884 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1577 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1705 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":12,"charStart":370,"charEnd":378}}]
+build.dart finished [1585 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1576 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1703 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":13,"charStart":371,"charEnd":379}}]
+build.dart finished [1553 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1753 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1622 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1580 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1599 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1698 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1644 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1542 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1675 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1612 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1559 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1584 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1572 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1601 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1683 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1563 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1741 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1612 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1600 ms]
+
+---
+build.dart --machine --changed=web/rightbox.html
+
+build.dart finished [1662 ms]
+
+---
+build.dart --machine --changed=web/leftbox.dart
+
+build.dart finished [1570 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1740 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1542 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1794 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1788 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1546 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1587 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1601 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1589 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1634 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1610 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1611 ms]
+
+---
+build.dart --machine --changed=web/rightbox.dart
+
+build.dart finished [1772 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html --changed=web/rightbox.dart
+
+build.dart finished [1590 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1691 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1809 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1737 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1568 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1707 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [2220 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1680 ms]
+
+---
+build.dart --machine --changed=build/dartapp.html_bootstrap.dart.js --changed=build/dartapp.html_bootstrap.dart...
+
+build.dart finished [1808 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1612 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1621 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1771 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1740 ms]
+
+---
+build.dart --machine --changed=build/dartapp.html
+
+build.dart finished [1674 ms]
+
+---
+build.dart --machine --changed=build/dartapp.html
+
+build.dart finished [1655 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1922 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1815 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1522 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1628 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1534 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1989 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1564 ms]
+
