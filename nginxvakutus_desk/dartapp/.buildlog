@@ -2408,3 +2408,223 @@ build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --
 [{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
 build.dart finished [1712 ms]
 
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1817 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1649 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1615 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1561 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1598 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1589 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [2717 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [2764 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1719 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1684 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1606 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1572 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1581 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1588 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1713 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1748 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1686 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1603 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1646 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1560 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1812 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [3610 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1968 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1708 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1552 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1640 ms]
+
+---
+build.dart --machine --changed=web/articlebox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1622 ms]
+
+---
+build.dart --machine --changed=web/dartapp.css
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1575 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1910 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1759 ms]
+
+---
+build.dart --machine --changed=build/dartapp.html_bootstrap.dart.js --changed=build/dartapp.html_bootstrap.dart...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1733 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1634 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1554 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1614 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1555 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1622 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1668 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1567 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1543 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1589 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1696 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+[{"method":"warning","params":{"file":"web/rightbox.html","message":"script tag in polymer element with no type will be treated as JavaScript. Did you forget type=\"application/dart\"?","line":11,"charStart":362,"charEnd":370}}]
+build.dart finished [1614 ms]
+
