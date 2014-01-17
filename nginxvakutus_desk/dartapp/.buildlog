@@ -3023,3 +3023,33 @@ build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --
 
 build.dart finished [1760 ms]
 
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [3359 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1582 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1671 ms]
+
+---
+build.dart --machine --changed=web/centralbox.html
+
+build.dart finished [1585 ms]
+
+---
+build.dart --machine --removed=build/dartapp.css --removed=build/dartapp.html --removed=build/dartapp.html_boot...
+
+build.dart finished [1725 ms]
+
+---
+build.dart --machine --changed=build/dartapp.css --changed=build/dartapp.html --changed=build/dartapp.html_boot...
+
+build.dart finished [1659 ms]
+
