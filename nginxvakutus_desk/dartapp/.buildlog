@@ -3143,3 +3143,28 @@ build.dart --machine --full
 
 build.dart finished [2434 ms]
 
+---
+build.dart --machine --full
+
+build.dart finished [4021 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2331 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2230 ms]
+
+---
+build.dart --machine --changed=build/web/articlebox.dart --changed=build/web/articlebox.html --changed=build/we...
+
+build.dart finished [1954 ms]
+
+---
+build.dart --machine --changed=build/web/dartapp.html
+
+build.dart finished [1526 ms]
+
