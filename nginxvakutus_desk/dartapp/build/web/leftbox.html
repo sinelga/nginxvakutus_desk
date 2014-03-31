@@ -1,0 +1,18 @@
+<polymer-element name="left-box" >
+  <template>
+ 
+ 
+ <!--   <ul class="nav nav-pills nav-stacked"> --> 
+    <ul class="nav">
+    <template repeat="{{navigation in navigationList}}">
+      
+      <li ><a on-click="{{selectNavigation}}" id='{{navigation.id}}'>{{navigation.SubThemes}}</a></li> 
+    
+              
+    </template>
+    </ul>  
+    
+   
+  </template>
+  <script type="application/dart" src="leftbox.dart"></script>
+</polymer-element>

@@ -3168,3 +3168,48 @@ build.dart --machine --changed=build/web/dartapp.html
 
 build.dart finished [1526 ms]
 
+---
+build.dart --machine --full
+
+build.dart finished [2943 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --removed=build/web/articlebox.dart --removed=build/web/articlebox.html --removed=build/we...
+
+build.dart finished [1792 ms]
+
+---
+build.dart --machine --changed=build/web/articlebox.dart --changed=build/web/articlebox.html --changed=build/we...
+
+build.dart finished [1565 ms]
+
+---
+build.dart --machine --removed=web/clickcounter.dart --removed=web/clickcounter.html
+
+build.dart finished [1488 ms]
+
+---
+build.dart --machine --changed=web/centralbox.dart
+
+build.dart finished [1474 ms]
+
+---
+build.dart --machine --removed=build/web/articlebox.dart --removed=build/web/articlebox.html --removed=build/we...
+
+build.dart finished [1965 ms]
+
+---
+build.dart --machine --changed=build/web/articlebox.dart --changed=build/web/articlebox.html --changed=build/we...
+
+build.dart finished [1474 ms]
+
+---
+build.dart --machine --changed=build/web/dartapp.html
+
+build.dart finished [1510 ms]
+
