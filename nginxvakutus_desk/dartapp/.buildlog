@@ -3213,3 +3213,33 @@ build.dart --machine --changed=build/web/dartapp.html
 
 build.dart finished [1510 ms]
 
+---
+build.dart --machine --full
+
+build.dart finished [1811 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [2086 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1660 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [2749 ms]
+
+---
+build.dart --machine --changed=web/dartapp.html
+
+build.dart finished [1607 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [4484 ms]
+
